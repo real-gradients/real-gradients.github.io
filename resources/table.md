@@ -1,6 +1,6 @@
 
-|  #  | Venue (Acronym) |                                              CfP Link                                               | Base Pages | Template  | Extra Pages | SoK? | Artifact? |
-|:---:|-----------------|:---------------------------------------------------------------------------------------------------:|:----------:|-----------|:-----------:|:----:|:---------:|
-|  1  | _S&P (Oakland)_ |                    [2023](https://www.ieee-security.org/TC/SP2023/cfpapers.html)                    |     13     | IEEE, DC  |      5      |  ✔   |           |
+|  Year  | Venue | 1st Author (+link) | Title | Reason |
+|:--:|-----------------|:---------------------------------------------------------------------------------------------------:|:----------:|-----------|
+|  2019 | _NDSS_ |                Hagestedt et al.                      |     [MBeacon: Privacy-Preserving Beacons for DNA Methylation Data](https://www.ndss-symposium.org/wp-content/uploads/2019/02/ndss2019_03A-2_Hagestedt_paper.pdf)     |  Poor connection with ML |
 {:.table}
 {:.table-bordered}
