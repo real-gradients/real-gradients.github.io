@@ -1,5 +1,5 @@
 |  Year  | Venue | Authors | Title (+link) |
-|:--:|:--:|:------------------:|:-------------------:|
+|:--:|:--:|:---------------------------------------:|:-------------------:|
 |  2019 | _NDSS_ | Hagestedt et al. |     [MBeacon: Privacy-Preserving Beacons for DNA Methylation Data](https://www.ndss-symposium.org/wp-content/uploads/2019/02/ndss2019_03A-2_Hagestedt_paper.pdf)     |
 | 2019 | _SP_ | Zheng et al. | [Helen: Maliciously Secure Coopetitive Learning for Linear Models](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8835215) |
 | 2019 | _SP_ | Melis et al. | [Exploiting Unintended Feature Leakage in Collaborative Learning](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8835269) |
@@ -16,14 +16,14 @@
 | 2020 | _SP_ | Pan et al. | [Privacy Risks of General-Purpose Language Models](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9152761) |
 | 2020 | _SP_ | Wu et al. | [The Value of Collaboration in Convex Machine Learning with Differential Privacy](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9152691) |
 | 2020 | _SP_ | Hasan et al. | [BLAZE: Blazing Fast Privacy-Preserving Machine Learning](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9152778) |
-| 2020 | _SP_ | Kumar et al. | [CRYPTFLOW: Secure TensorFlow Inference](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9152660) |
-| 2020 | _CCS_ | Rathee et al. | [CrypTFlow2: Practical 2-Party Secure Inference](https://dl.acm.org/doi/pdf/10.1145/3372297.3417274) |
+| 2020 | _SP_ | Kumar et al. | [CryptFlow: Secure TensorFlow Inference](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9152660) |
+| 2020 | _CCS_ | Rathee et al. | [CryptFlow2: Practical 2-Party Secure Inference](https://dl.acm.org/doi/pdf/10.1145/3372297.3417274) |
 | 2021 | _NDSS_ | Ma et al. | [Let’s Stride Blindfolded in a Forest: Sublinear Multi-Client Decision Trees Evaluation](https://www.ndss-symposium.org/wp-content/uploads/ndss2021_5C-1_23166_paper.pdf) |
 | 2021 | _NDSS_ | Zhang et al. | [GALA: Greedy ComputAtion for Linear Algebra in Privacy-Preserved Neural Networks](https://www.ndss-symposium.org/wp-content/uploads/ndss2021_5C-3_24351_paper.pdf) |
 | 2021 | _NDSS_ | Liang et al. | [FARE: Enabling Fine-grained Attack Categorization under Low-quality Labeled Data](https://www.ndss-symposium.org/wp-content/uploads/ndss2021_5C-4_24403_paper.pdf) |
 | 2021 | _NDSS_ | Sav et al. | [POSEIDON: Privacy-Preserving Federated Neural Network Learning](https://www.ndss-symposium.org/wp-content/uploads/ndss2021_6C-1_24119_paper.pdf) |
 | 2021 | _NDSS_ | Cao et al. | [FLTrust: Byzantine-robust Federated Learning via Trust Bootstrapping](https://www.ndss-symposium.org/wp-content/uploads/ndss2021_6C-2_24434_paper.pdf) |
-| 2021 | _NDSS_ | Shejwalkar et al. | [Manipulating the Byzantine: Optimizing Model Poisoning Attacks and Defenses for Federated Learning](https://www.ndss-symposium.org/wp-content/uploads/ndss2021_6C-3_24498_paper.pdf) |
+| 2021 | _NDSS_ | Shejwalkar and Houmansadr | [Manipulating the Byzantine: Optimizing Model Poisoning Attacks and Defenses for Federated Learning](https://www.ndss-symposium.org/wp-content/uploads/ndss2021_6C-3_24498_paper.pdf) |
 | 2021 | _NDSS_ | Le et al. | [CV-INSPECTOR: Towards Automating Detection of Adblock Circumvention](https://www.ndss-symposium.org/wp-content/uploads/ndss2021_7C-1_24055_paper.pdf) |
 | 2021 | _NDSS_ | Zimmeck et al. | [PrivacyFlash Pro: Automating Privacy Policy Generation for Mobile Apps](https://www.ndss-symposium.org/wp-content/uploads/ndss2021_7C-3_24100_paper.pdf) |
 | 2021 | _NDSS_ | Vishvamitra et al. | [Towards Understanding and Detecting Cyberbullying in Real-world Images](https://www.ndss-symposium.org/wp-content/uploads/ndss2021_7C-4_24260_paper.pdf) |
