@@ -79,6 +79,8 @@ target/
 
 # Jupyter Notebook
 .ipynb_checkpoints
+*.ipynb_checkpoints
+
 
 # IPython
 profile_default/
@@ -155,16 +157,6 @@ dmypy.json
 # Generated files
 .idea/**/contentModel.xml
 
-# remove these
-*.WA+_attacks.ipynb
-*.WA_attacks.ipynb
-.code/*
-.code
-.data_folder/*
-.data_folder
-.data_folder.zip
-.ml_folder/CN2.ipynb
-
 # Sensitive or high-churn files
 .idea/**/dataSources/
 .idea/**/dataSources.ids
@@ -199,8 +191,6 @@ data_folder.zip
 .idea/*
 .idea
 
-ml_folder/CN_2.ipynb
-
 # Mongo Explorer plugin
 .idea/**/mongoSettings.xml
 
@@ -234,3 +224,5 @@ fabric.properties
 # Android studio 3.1+ serialized cache file
 .idea/caches/build_file_checksums.ser
 
+# Large archive
+*caseStudy3_submissions.zip
