@@ -1,5 +1,7 @@
 |  Year  | Venue | Authors | Title (+link) |
 |:--:|:--:|:----------:|:-------------------:|
+|  2019 | _NDSS_ | Hagestedt et al. |     [MBeacon: Privacy-Preserving Beacons for DNA Methylation Data](https://www.ndss-symposium.org/wp-content/uploads/2019/02/ndss2019_03A-2_Hagestedt_paper.pdf)     |
+| 2019 | _SP_ | Zheng et al. | [Helen: Maliciously Secure Coopetitive Learning for Linear Models](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8835215) |
 | 2019 | _SP_ | Melis et al. | [Exploiting Unintended Feature Leakage in Collaborative Learning](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8835269) |
 | 2019 | _USENIX_ | Mirsky et al. | [CT-GAN: Malicious Tampering of 3D Medical Imagery using Deep Learning](https://www.usenix.org/system/files/sec19-mirsky_0.pdf) |
 | 2019 | _CCS_ | Agraval et al. | [QUOTIENT: Two-Party Secure Neural Network Training and Prediction](https://dl.acm.org/doi/pdf/10.1145/3319535.3339819) |
@@ -42,6 +44,5 @@
 | 2021 | _USENIX_ | Chen et al. | [Cost-Aware Robust Tree Ensembles for Security Applications](https://www.usenix.org/system/files/sec21-chen-yizheng.pdf) |
 | 2021 | _USENIX_ | Yang et al. | [CADE: Detecting and Explaining Concept Drift Samples for Security Applications](https://www.usenix.org/system/files/sec21-yang-limin.pdf) |
 | 2021 | _USENIX_ | Sun et al. | [Mind Your Weight(s): A Large-scale Study on Insufficient Machine Learning Model Protection in Mobile Apps](https://www.usenix.org/system/files/sec21-sun-zhichuang.pdf) |
-| 
 {:.table}
 {:.table-bordered}
