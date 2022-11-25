@@ -17,14 +17,16 @@ We will [present the paper](https://satml.org/) in Raleigh (NC, USA) in February
 
 We aim to spearhead more impactful research in the context of Adversarial Machine Learning (ML). In the last decade, real-world deployments of ML have skyrocketed; however, despite thousands of papers showing the vulnerability of ML models to various security violations, practitioners still see this research domain with skepticism. 
 
-We believe that a stronger connection between adversarial ML research and practice would greatly benefit our future society, as it will lead to an improved security of _operational_ ML systems. To strengthen such a connection, we:
-* **elucidate three real-world case studies**, fostering the contribution of large companies, elucidating some aspects of ML-systems' security that are _overlooked_ by researchers;
-* **review all recent papers published in top-conferences**, showing positive trends as well as some confusing _inconsistencies_;
+We believe that a stronger connection between adversarial ML research and practice would greatly benefit our society, as it will lead to an improved security of _operational_ ML systems. To strengthen such a connection, we:
+* **present three real-world case studies**, fostering the contribution of large companies, elucidating some aspects of ML-systems' security that are _overlooked_ by researchers;
+* **review all recent papers published in top-conferences**, highlighting positive trends as well as some confusing _inconsistencies_;
 * **state five positions** that, if embraced, would _build a bridge_ between adversarial ML research and practice. 
+
+Our paper is enriched with discussions, considerations and thorough analyses on all the abovementioned points -- provided in a (lengthy!) Appendix culminating with a comprehensive table that summarizes the state-of-the-art. 
 
 #### Acknowledgement
 
-Our paper is the result of a joint effort of researchers and practitioners. However, the _idea_ of our paper was born slightly after the Dagstuhl Seminar on "[Security of Machine Learning](https://www.dagstuhl.de/en/program/calendar/semhp/?semnr=22281)", held in July 2022. During this event (which most of the paper's authors attended to), many discussions were held on the underlying topic tackled by the paper. Thus, the authors would like to thank all participants (and organizers!) of this Dagstuhl Seminar, without which our paper would have never come to be.
+Our work is the result of a joint effort of researchers and practitioners. However, the _idea_ of our paper was born slightly after the Dagstuhl Seminar on "[Security of Machine Learning](https://www.dagstuhl.de/en/program/calendar/semhp/?semnr=22281)", held in July 2022. During this event (which most of the paper's authors attended to), many discussions were held on the underlying topic tackled by the paper. Thus, the authors would like to thank all participants (and organizers!) of this Dagstuhl Seminar, without which our paper would have never come to be.
 
 ---
 
