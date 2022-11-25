@@ -18,7 +18,7 @@ We will [present the paper](https://satml.org/) in Raleigh (NC, USA) in February
 We aim to spearhead more impactful research in the context of Adversarial Machine Learning (ML). In the last decade, real-world deployments of ML have skyrocketed; however, despite thousands of papers showing the vulnerability of ML models to various security violations, practitioners still see this research domain with skepticism. 
 
 We believe that a stronger connection between adversarial ML research and practice would greatly benefit our society, as it will lead to an improved security of _operational_ ML systems. To strengthen such a connection, we:
-* **present three real-world case studies**, fostering the contribution of large companies, elucidating some aspects of ML-systems' security that are _overlooked_ by researchers;
+* **present three real-world case studies**, fostering the contribution of large companies, elucidating some aspects of ML-systems' security that may be _overlooked_ by researchers;
 * **review all recent papers published in top-conferences**, highlighting positive trends as well as some confusing _inconsistencies_;
 * **state five positions** that, if embraced, would _build a bridge_ between adversarial ML research and practice. 
 
@@ -35,7 +35,7 @@ Our work is the result of a joint effort of researchers and practitioners. Howev
 Alongside our main paper, our contributions also cover the following additional resources:
 
 * **Screenshots** of the 100 "evasive" phishing webpages -- described in Section III.B [[Archive](https://real-gradients.github.io/resources/data/caseStudy2_screenshots.zip) (~17MB) and [SHA256](https://real-gradients.github.io/resources/data/caseStudy2_screenshots-SHA256)]
-* **Source Material** of our analysis of the 2021 MLSEC antiphishing-evasion challenge -- described in Section III.A [[Notebook](https://github.com/real-gradients/real-gradients.github.io/blob/main/resources/code/generate_plots.ipynb) and [Data](https://github.com/real-gradients/real-gradients.github.io/blob/main/resources/code/antiphish_top_submission_timing-anon.csv)] [[Submissions](https://1drv.ms/u/s!AiRbxLvsK4bMojLBxyzDoY3zY0CJ?e=nAQYF1)  (~500MB) and [SHA256](https://real-gradients.github.io/resources/data/caseStudy3_submissions-SHA256)]
+* **Source Material** of our analysis of the 2021 MLSEC antiphishing challenge -- described in Section III.C [[Notebook](https://github.com/real-gradients/real-gradients.github.io/blob/main/resources/code/generate_plots.ipynb) and [Data](https://github.com/real-gradients/real-gradients.github.io/blob/main/resources/code/antiphish_top_submission_timing-anon.csv)] [[Submissions](https://1drv.ms/u/s!AiRbxLvsK4bMojLBxyzDoY3zY0CJ?e=nAQYF1)  (~500MB) and [SHA256](https://real-gradients.github.io/resources/data/caseStudy3_submissions-SHA256)]
 * **List of Excluded Papers** that entail ML and Cybersecurity, but which fell outside our scope and were not included in our literature review -- refer to Appendix B-A [[List](https://real-gradients.github.io/resources/leftout_papers)]
 
 If you use any of such resources, we kindly ask you to cite our paper with the following BibTeX entry:
