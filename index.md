@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Real Attackers Don`t Compute Gradients
-tagline: Bridging the Gap between Adversarial ML Research and Practice
+tagline: Bridging the Gap between Adversarial ML Research and Practice (Resources)
 description: Website for Real-Gradients
 ---
 
