@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Left-out Papers 
-tagline: A comprehensive list
+tagline: List of papers excluded from our literature analysis
 description: tbd
 ---
 
