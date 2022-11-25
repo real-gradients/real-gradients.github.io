@@ -6,7 +6,7 @@ description: Website for Real-Gradients
 ---
 
 
-Welcome to the website related to the paper _"Real Attackers Don't Compute Gradients": Bridging the Gap between Adversarial ML Research and Practice_ accepted to [IEEE SaTML'23](https://satml.org/).
+Welcome to the website related to the paper _"Real Attackers Don't Compute Gradients": Bridging the Gap between Adversarial ML Research and Practice_ accepted to [IEEE SaTML'23](https://satml.org/). A preprint is [here](https://real-gradients.github.io/resources/satml23_real-gradients.pdf).
 
 We will [present the paper](https://satml.org/) in Raleigh (NC, USA) in February 2023!
 
@@ -34,8 +34,8 @@ Our work is the result of a joint effort of researchers and practitioners. Howev
 
 Alongside our main paper, our contributions also cover the following additional resources:
 
-* **Screenshots** of the 100 "evasive" phishing webpages -- described in Section III.B [[Archive](https://real-gradients.github.io/resources/data/caseStudy2_screenshots.zip) (~17MB)] [[SHA256](https://real-gradients.github.io/resources/data/caseStudy2_screenshots-SHA256)]
-* **Source Material** of our analysis of the 2021 MLSEC antiphishing-evasion challenge -- described in Section III.A [[Notebook](https://github.com/real-gradients/real-gradients.github.io/blob/main/resources/code/generate_plots.ipynb) and [Data](https://github.com/real-gradients/real-gradients.github.io/blob/main/resources/code/antiphish_top_submission_timing-anon.csv)] [[Submissions](https://1drv.ms/u/s!AiRbxLvsK4bMojLBxyzDoY3zY0CJ?e=nAQYF1)  (~500MB)] [[SHA256](https://real-gradients.github.io/resources/data/caseStudy3_submissions-SHA256)]
+* **Screenshots** of the 100 "evasive" phishing webpages -- described in Section III.B [[Archive](https://real-gradients.github.io/resources/data/caseStudy2_screenshots.zip) (~17MB) and [SHA256](https://real-gradients.github.io/resources/data/caseStudy2_screenshots-SHA256)]
+* **Source Material** of our analysis of the 2021 MLSEC antiphishing-evasion challenge -- described in Section III.A [[Notebook](https://github.com/real-gradients/real-gradients.github.io/blob/main/resources/code/generate_plots.ipynb) and [Data](https://github.com/real-gradients/real-gradients.github.io/blob/main/resources/code/antiphish_top_submission_timing-anon.csv)] [[Submissions](https://1drv.ms/u/s!AiRbxLvsK4bMojLBxyzDoY3zY0CJ?e=nAQYF1)  (~500MB) and [SHA256](https://real-gradients.github.io/resources/data/caseStudy3_submissions-SHA256)]
 * **List of Excluded Papers** that entail ML and Cybersecurity, but which fell outside our scope and were not included in our literature review -- refer to Appendix B-A [[List](https://real-gradients.github.io/resources/leftout_papers)]
 
 If you use any of such resources, we kindly ask you to cite our paper with the following BibTeX entry:
