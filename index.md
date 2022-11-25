@@ -13,9 +13,16 @@ We will [present the paper](https://satml.org/) in Raleigh (NC, USA) in February
 
 ---
 
-### Summary: what did we do?
+### Summary: what is our paper about?
 
-TBD 
+Our (position) paper aims to spearhead more impactful research in the context of Adversarial Machine Learning (ML). In the last decade, real-world deployments of ML have skyrocketed; however, despite thousands of papers showing the vulnerability of ML models to various security violations, practitioners still see this research domain with skepticism. 
+
+We believe that a stronger connection between research and practice of adversarial ML would greatly benefit our future society, as it will lead to an improved security of _operational_ ML systems. To this purpose, we:
+* _elucidate three real-world case studies_, fostering the contribution of large companies, elucidating some aspects of ML-systems' security that are overlooked by researchers;
+* _review all recent papers published in top-conferences_, showing positive trends as well as some confusing inconsistencies;
+* _state five positions_ that, if embraced, would build a bridge between adversarial ML research and practice. 
+
+Our paper is the result of a joint effort of researchers and practitioners. However, the _idea_ of our paper was born slightly after the Dagstuhl Seminar in "[Security of Machine Learning](https://www.dagstuhl.de/en/program/calendar/semhp/?semnr=22281)", held in July 2022. During this event (which was attended by most of the paper's authors), many discussions were held on the underlying topic tackled by the paper. The authors hence would like to thank all participants of this Dagstuhl Seminar, without which our paper would have never come to be.
 
 
 
