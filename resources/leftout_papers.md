@@ -5,7 +5,7 @@ tagline: A comprehensive list
 description: tbd
 ---
 
-We report in the table below all the papers that, despite being related to machine learning and cybersecurity, were not included in the Table provided at the end of our paper.
+We report below those 43 papers were not included in Table IV of our position paper. Specifically, these papers are those that were included in the Proceedings of either: ACM Conference on Computer and Communications Security (CCS), IEEE Symposium on Security and Privacy (SP), Network and Distributed Systems Security Symposium (NDSS), USENIX Security Symposium (SEC) --- between 2019 and 2021. All such works were somewhat related to machine learning and cybersecurity, but fell outside the scope of our position paper (refer to Appendix B-A for an explanation).
 
 
 
