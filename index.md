@@ -30,9 +30,9 @@ Our work is the result of a joint effort of researchers and practitioners. Howev
 
 ---
 
-### Resources
+### Extra Resources
 
-Alongside our main paper (and its lengthy Appendix!), our contributions also cover the following additional resources:
+Alongside our main paper, our contributions also cover the following additional resources:
 
 * **Screenshots** of the 100 "evasive" phishing webpages -- described in Section III.B [[Archive](https://real-gradients.github.io/resources/data/caseStudy2_screenshots.zip) (~17MB)] [[SHA256](https://real-gradients.github.io/resources/data/caseStudy2_screenshots-SHA256)]
 * **Source Material** of our analysis of the 2021 MLSEC antiphishing-evasion challenge -- described in Section III.A [[Notebook](https://github.com/real-gradients/real-gradients.github.io/blob/main/resources/code/generate_plots.ipynb)] [[Submissions](https://1drv.ms/u/s!AiRbxLvsK4bMojLBxyzDoY3zY0CJ?e=nAQYF1)  (~500MB)] [[SHA256](https://real-gradients.github.io/resources/data/caseStudy3_submissions-SHA256)]
