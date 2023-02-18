@@ -8,7 +8,11 @@ description: Website for Real-Gradients
 
 Welcome to the website related to the paper _"Real Attackers Don't Compute Gradients": Bridging the Gap between Adversarial ML Research and Practice_ accepted to [IEEE SaTML'23](https://satml.org/). A preprint is [here](https://real-gradients.github.io/resources/satml23_real-gradients.pdf).
 
-We will [present the paper](https://satml.org/) in Raleigh (NC, USA) in February 2023!
+We [presented the paper](https://satml.org/) in Raleigh (NC, USA) in February 2023! [[Slides](https://real-gradients.github.io/resources/satml23_slides.pdf)] [[Poster](https://real-gradients.github.io/resources/satml23_poster.pdf)]
+
+You can watch the presentation in the video below: 
+
+<iframe width="560" height="315" src="https://www.youtube.com/watch?v=hDz3xWAEV_o?rel=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
 ---
@@ -50,3 +54,9 @@ If you use any of such resources, we kindly ask you to cite our paper with the f
 
 #### Contact
 Feel free to reach out to us! You can contact either the primary author, [Giovanni Apruzzese](mailto:giovanni.apruzzese@uni.li), or any of the other authors (the contact references are at the bottom of this webpage). You can also post a comment on the [discussion page](https://github.com/real-gradients/real-gradients.github.io/discussions/) of this GitHub Repository.
+
+---
+
+### Follow-up
+
+Four of the authors (Giovanni Apruzzese, Hyrum Anderson, David Freeman, Fabio Pierazzi) held a 1-hour [webinar](https://us06web.zoom.us/webinar/register/9716757880895/WN_b5VZdl8jQ4uMJzDTe0y1LQ) (organized by [Robust Intelligence](https://www.robustintelligence.com/)) in which they discussed some of the paper's main takeaways. The webinar can be watched at the following link: [YouTube](https://www.youtube.com/watch?v=6ZQli55AKwQ)
